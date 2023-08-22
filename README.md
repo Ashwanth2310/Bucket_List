@@ -1,2 +1,2 @@
-# Bucket_List
-ok
+# How  many rings does Jimu Buckets have?
+0
